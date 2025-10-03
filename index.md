@@ -5,7 +5,7 @@ date: 2024-12-02
 ---
 
 
-## Richard Maska
+## Richard J. Maska
 
 I am a History PhD Candidate focusing on Native American and borderlands history. 
 {% assign essays = site.pages | where: "homepage", true %}
